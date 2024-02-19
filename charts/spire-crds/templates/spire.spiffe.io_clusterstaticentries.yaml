@@ -62,6 +62,8 @@ spec:
                 items:
                   type: string
                 type: array
+              storeSVID:
+                type: boolean
               spiffeID:
                 type: string
               x509SVIDTTL:
